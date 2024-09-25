@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.1" encoding="UTF-8"?>
 
 <!--
  * See the NOTICE file distributed with this work for additional
@@ -39,23 +39,21 @@
   <minorEdit>false</minorEdit>
   <syntaxId>plain/1.0</syntaxId>
   <hidden>true</hidden>
-  <content>### Missing: gardening.wiki.selectScripts=Select active gardening scripts
+  <content>gardening.wiki.selectScripts=Wybór aktywnych skryptów ogrodniczych
 ### Missing: gardening.wiki.startJob=Start gardening
 ### Missing: gardening.wiki.startTest=Test the gardening process
-### Missing: gardening.wiki.start=Start mowing!
-
+gardening.wiki.start=Zacznij kosić!
 gardening.wiki.noQueryScripts=Nie znaleziono skryptu zapytania.
 gardening.wiki.noActionScripts=Nie znaleziono skryptu akcji.
-
 gardening.wiki.scripts.query.defaultDescription=Wybierz skrypt zapytania, aby zobaczyć jego opis
 gardening.wiki.scripts.action.defaultDescription=Wybierz skrypt akcji, aby zobaczyć jego opis
 gardening.wiki.scripts.action.noAction=---
-
 gardening.job.success=Sukces!
 gardening.job.error=Wystąpił błąd, więcej informacji można znaleźć w logach.
 
 # Translation keys for the GardeningScriptConfigurationClass
 Gardening.Code.GardeningScriptConfigurationClass_activeQueryScripts=Aktywuj skrypty zapytania
-Gardening.Code.GardeningScriptConfigurationClass_activeActionScript=Aktywny skrypt akcji</content>
+Gardening.Code.GardeningScriptConfigurationClass_activeActionScript=Aktywny skrypt akcji
+</content>
   
 </xwikidoc>
