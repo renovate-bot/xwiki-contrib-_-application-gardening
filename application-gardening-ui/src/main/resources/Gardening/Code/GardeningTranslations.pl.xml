@@ -41,7 +41,7 @@
   <hidden>true</hidden>
   <content>gardening.wiki.selectScripts=Wybór aktywnych skryptów ogrodniczych
 ### Missing: gardening.wiki.startJob=Start gardening
-### Missing: gardening.wiki.startTest=Test the gardening process
+gardening.wiki.startTest=Przetestuj proces ogrodniczy
 gardening.wiki.start=Zacznij kosić!
 gardening.wiki.noQueryScripts=Nie znaleziono skryptu zapytania.
 gardening.wiki.noActionScripts=Nie znaleziono skryptu akcji.
